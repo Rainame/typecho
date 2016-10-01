@@ -32,3 +32,5 @@ config.rb
 /usr/themes/
 !/usr/themes/default
 !/usr/themes/maupassant
+!/usr/themes/purple-series-2
+!/usr/themes/typecho-theme-minimal
